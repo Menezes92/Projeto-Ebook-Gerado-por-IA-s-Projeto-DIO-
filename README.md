@@ -22,7 +22,7 @@ prompt:
 Crie um titulo de um ebook sobre o tema de amigurumi, o ebook é do nicho crochê e o subnicho de amigurumi, o titulo deve ser chamativo, moderno e curto
 e tenha uma temática de aprendizado e simbolos , me liste 8 variações de títulos
 
-DALL·E 3 (OpenAI)：
+## DALL·E 3 (OpenAI)：
 
 prompt:
 
